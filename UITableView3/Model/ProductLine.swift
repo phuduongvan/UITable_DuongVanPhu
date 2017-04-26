@@ -20,7 +20,7 @@ import Foundation
 class ProductLine
 {
     // Variables
-    var name: String            // name of the product line
+    var name: String            // name of the product line LLLLLLL
     var products: [Product]     // all products in the line
     
     init(named: String, includeProducts: [Product])
